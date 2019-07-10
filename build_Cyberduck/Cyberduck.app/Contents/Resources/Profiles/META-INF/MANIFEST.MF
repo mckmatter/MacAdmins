@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Implementation-Version: 30930
+Specification-Vendor: iterate GmbH
+Build-Jdk-Spec: 1.8
+Created-By: Maven Archiver 3.4.0
+Specification-Version: 7.0.1
+
